@@ -16,8 +16,5 @@ public class AdminServerApplication {
 		SpringApplication.run(AdminServerApplication.class, args);
 	}
 	
-	public static void main1(String[] args) {
-		SpringApplication.run(AdminServerApplication.class, args);
-	}
 
 }
